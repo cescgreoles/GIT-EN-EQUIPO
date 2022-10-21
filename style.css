@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cyan;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 151px;
+}
+
+img {
+    width: 100%;
+}
